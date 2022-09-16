@@ -1,5 +1,7 @@
 # cchao123
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchao123&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchao123)](https://github.com/cchao123/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cchao123&hide=contribs,prs)
