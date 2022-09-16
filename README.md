@@ -1,3 +1,6 @@
+### cchao profile
+
+- 🧱 新时代搬砖工人
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchao123&layout=compact" />
 
