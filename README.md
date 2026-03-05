@@ -1,7 +1,6 @@
-### cchao profile
-
 ![](https://github.com/cchao123/cchao123/blob/main/assets/cover.png)
 
+### cchao profile
 
 **Languages:**  
 
